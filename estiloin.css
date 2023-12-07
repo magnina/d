@@ -1,0 +1,19 @@
+body{
+    background-color: #FFFDF2;
+}
+.nav{
+background: #e21cfc;
+}
+
+footer{
+background-color: #F7E3BD;
+}
+.carousel slide{
+margin: 0px, 2px
+}
+#carouselExampleCaptions{
+margin: 0px 20px
+}
+.reno{
+margin: 0px 50px
+}
